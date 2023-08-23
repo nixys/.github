@@ -1,5 +1,3 @@
-# READMe.md
-
 We specialize in helping business with implementing:
 
 * Advanced DevOps methods
