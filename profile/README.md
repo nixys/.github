@@ -1,6 +1,6 @@
-We specialize in helping business with implementing:
+We specialize in helping business with:
 
-* Advanced DevOps methods
+* Implementing advanced DevOps methods
 * Automating CI/CD processes
 * Designing and deploying fault-tolerant Kubernetes-based automated infrastructures
 * Solving various tasks related to system administration
