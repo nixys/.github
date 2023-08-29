@@ -1,18 +1,16 @@
-We specialize in helping business with:
+[Nixys](https://nixys.io) are the experts in various trends such as DevOps, DevSecOps, MLOps, etc.
 
-* Implementing advanced DevOps methods
-* Automating CI/CD processes
-* Designing and deploying fault-tolerant Kubernetes-based automated infrastructures
-* Solving various tasks related to system administration
+We can help your business with:
 
-Please check our repositories for more information - they may be helpful to you.
+- Building and implementing a DevOps Culture in your company
+- Developing and integrating modern CI/CD processes for your projects
+- Designing and deploying fault-tolerant Kubernetes-based automated infrastructures
+- Providing a competent Tech Support 24x7x365
 
-You can find more information about us [on our website](https://nixys.io/).
+Open-source projects that you can find here is our experience we share with the community to help automate some of DevOps and business processes.
 
-And here we share our insights, case studies, and news in the world of DevOps, follow us:
+Join our community and follow us:
 
 * [Facebook](https://www.facebook.com/nixysteam)
 * [YouTube](https://www.youtube.com/@nixys-io)
 * [LinkedIn](https://www.linkedin.com/company/nixys-io)
-
-Enjoy our community!
